@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        ".fantomasignore": "ignore",
+        "xutility": "cpp",
+        "iostream": "cpp"
+    }
+}
